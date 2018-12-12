@@ -1,2 +1,2 @@
 # hello-word
-repositorio de prueba
+repositorio de prueba escribimos sobre la rama de prueba
